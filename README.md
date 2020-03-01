@@ -1,3 +1,4 @@
 # ES6-ES10
 
-- [ ] let & const
+- [x] let & const
+- [ ] Array
